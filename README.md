@@ -3,7 +3,7 @@
 This Java program is designed to display the time. It can be useful in various scenarios where you need to measure elapsed time, such as performance testing, scheduling tasks, or simply determining the current time.
 
 ## Technologies Used
-1. Java
+Java
    
 ## Prerequisites
 Before running this program, ensure that you have the following installed:
